@@ -1,11 +1,6 @@
-console.log("hola mundo");
-console.log("hola mundo2");
+let text = prompt("¿Cual es tu nombre?");
+let texto = "HOLa";
 
-let mensaje = "hola";
-
-alert(mensaje);
-
-let mensaje2 ="hola 2";
-
-alert(mensaje2);
+console.log(text);
+console.log(texto);
 
