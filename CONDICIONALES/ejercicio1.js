@@ -8,9 +8,9 @@ const b=25;
 const c= 45;
 
 if(a>b&& a>c){
-    console.log('a es el mayor');
+    console.log('a es el mayor',a);
 }else if(b>a&& b>c){
-    console.log('b es el mayor');
+    console.log('b es el mayor',b);
 }else {
-    console.log('c es el mayor');
+    console.log('c es el mayor',c);
 }
