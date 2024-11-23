@@ -3,7 +3,7 @@ Declara una variable a,b,c con valñores numericos y utiliza
 condiciones para deternimar cual de ellos es el mayot
 */
 
-const a=10;
+const a=parseInt(prompt("INGRESE UN NUMERO"));
 const b=25;
 const c= 45;
 
